@@ -311,6 +311,8 @@ bool operator !=(const Complex<double> &ComplexA, const Complex<double> &Complex
 
 
 
-
+/*
+ Erik Hudcovský
+ */
 
 
